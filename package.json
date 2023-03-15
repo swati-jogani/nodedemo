@@ -12,5 +12,19 @@
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swati-jogani/nodedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swati-jogani/nodedemo/issues"
+  },
+  "homepage": "https://github.com/swati-jogani/nodedemo#readme",
+  "description": ""
 }
